@@ -21,13 +21,15 @@ operaciones de suma, resta, multiplicación y división.
 
 ## Estructura del Proyecto
 
-CalculadoraJava/ 
-├── pom.xml 
-└── src/ 
-    └── main/ 
-        └── java/ 
-            └── Calculadora/ 
+```
+CalculadoraJava/
+├── pom.xml
+└── src/
+    └── main/
+        └── java/
+            └── Calculadora/
                 └── CalculadoraBasica.java
+```
 
 ## Como Ejecutar el proyecto
 
